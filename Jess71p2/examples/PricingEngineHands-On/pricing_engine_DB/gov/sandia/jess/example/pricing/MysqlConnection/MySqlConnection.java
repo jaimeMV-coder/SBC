@@ -10,10 +10,10 @@ import javax.swing.JOptionPane;
 public class MySqlConnection{
     private Connection conn;
     
-    private static final String url = "jdbc:mysql://brguvhv0ojfdepjudovc-mysql.services.clever-cloud.com:3306/brguvhv0ojfdepjudovc";
+    private static final String url = "jdbc:mysql://";
     private static final String driver = "com.mysql.jdbc.Driver";
-    private static final String user= "uzx1r1xw4mgrktaj";
-    private static final String password = "FPGAGKsN5BweVSOI8Clf";
+    private static final String user= "123";
+    private static final String password = "123";
     
 
 
